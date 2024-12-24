@@ -29,3 +29,4 @@ flashy-*.tar
 .direnv/
 .hex/
 .mix/
+.elixir_ls/

@@ -30,3 +30,5 @@ flashy-*.tar
 .hex/
 .mix/
 .elixir_ls/
+
+package-lock.json
